@@ -1,0 +1,119 @@
+html, body {
+    background-color: lightblue;
+    margin: 0;
+    padding: 0;
+    font-family: 'Athiti', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+.top-header {
+    text-align: center;
+    box-shadow: 0px 10px 11px 2px rgba(0, 0, 0, 0.29);
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+
+.menu-item {
+    color: white;
+    padding: 15px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+
+.image-main {
+    margin: 0px;
+    padding: 0px;
+    width: 50%;
+    float: left;
+    margin-right: 10;
+    margin-left: 0;
+
+}
+
+.clear-paragraph {
+    text-align: center;
+    margin-top: 230px;
+    margin-bottom: 0%;
+    text-shadow: 20px 10px 11px 2px rgba(0, 0, 0, 0.29);
+}
+
+.clear-nonn {
+    text-align: center;
+    margin-right: 0;
+    margin-left: 0;
+    margin-bottom: 0px;
+    text-shadow: 0px 10px 11px 2px rgba(0, 0, 0, 0.29);
+}
+
+.clear-nonnn {
+    text-align: center;
+    margin-right: 0;
+    margin-left: 0;
+    margin-bottom: 230px;
+    text-shadow: 0px 10px 11px 2px rgba(0, 0, 0, 0.29);
+}
+
+.brand {
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 30px;
+}
+
+
+.box {
+    background-color: white;
+    padding: 20px;
+    margin: 30px
+}
+
+.image {
+    width: 50%;
+}
+
+.buttton {
+    color: white;
+    background-color: black;
+    padding: 10px;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+
+.flexbox {
+    display: flex;
+    box-sizing: border-box;
+}
+
+.item {
+    display: block;
+    box-sizing: border-box;
+    width: 30%;
+    padding: 2%;
+}
+
+.content {
+    background-color: aqua;
+    border: 2px solid white;
+    padding: 2px;
+}
+
+
+
+
+
+
+
+
+
+
+.bottom-footer {
+    background-color: rgb(94, 94, 94);
+    padding: 15px;
+    text-align: center;
+}
